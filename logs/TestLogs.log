@@ -1,0 +1,4 @@
+31:03:2022 - 17:55:37.493 TRACE websocketx.WebSocket08FrameEncoder [AsyncHttpClient-1-7] - Encoding WebSocket Frame opCode=8 length=26
+31:03:2022 - 17:56:26.950 TRACE websocketx.WebSocket08FrameEncoder [AsyncHttpClient-1-2] - Encoding WebSocket Frame opCode=8 length=26
+31:03:2022 - 17:56:56.555 TRACE websocketx.WebSocket08FrameEncoder [AsyncHttpClient-1-5] - Encoding WebSocket Frame opCode=8 length=26
+31:03:2022 - 17:57:18.052 TRACE websocketx.WebSocket08FrameEncoder [AsyncHttpClient-1-8] - Encoding WebSocket Frame opCode=8 length=26
