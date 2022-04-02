@@ -1,0 +1,2 @@
+# Selenium-Hybrid-Framework-Mini-Project
+This is a project that implements a hybrid framework for automating the test cases of a demo web application. This framework includes Maven, TestNG and Page Object Model(POM) for the systematic project structure and execution of test cases. Java is used as the programming language with Selenium webdriver for the automation of test cases. Extent reports are used to graphically represent the status of executed test cases.
