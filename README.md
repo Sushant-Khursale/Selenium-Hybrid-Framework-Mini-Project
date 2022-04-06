@@ -9,7 +9,7 @@ This Framework is designed using below Tools and Technologies:
 
 -Page Object Model Design Pattern to Access and Manage WebElements on Various Webpages of the Application.
 
--Maven is used for Systematic Project Structure and handling various Third Party Dependencies.
+-Maven for Systematic Project Structure and handling various Third Party Dependencies.
 
 -TestNG is used as Test Driven Development Framework which comes with some Amazing Features that help Design a Robust Framework.
 
